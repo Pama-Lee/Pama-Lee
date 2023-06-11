@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm LI(Lee) JIAKE(Pama)</h1>
+<h1 align="center">Hi <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">, I'm LI(Lee) JIAKE(Pama)</h1>
 <h3 align="center">A passionate full stack developer from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pama-lee&label=Profile%20views&color=f19d3b&style=flat" alt="pama-lee" /> </p>
