@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pama-lee&label=Profile%20views&color=f19d3b&style=flat" alt="pama-lee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pama-lee" alt="pama-lee" /></a> </p>
-
 - 🌱 I’m currently learning **GO, Gin**
 
 - 👯 I’m looking to collaborate on [Ministry of CODE](https://github.com/Ministry-of-CODES)
