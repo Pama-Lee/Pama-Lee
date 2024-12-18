@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">, I'm LI(Lee) JIAKE(Pama)</h1>
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=pama-lee&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER" alt="Pama-Lee's GitHub stats" height="170px" /><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=pama-lee&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="170px" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=pama-lee&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER" alt="Pama-Lee's GitHub stats" height="170px" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pama-lee&label=Profile%20views&color=f19d3b&style=flat" alt="pama-lee" /> </p>
 
