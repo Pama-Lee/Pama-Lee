@@ -4,11 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pama-lee&label=Profile%20views&color=f19d3b&style=flat" alt="pama-lee" /> </p>
 
-- 🌱 I’m currently learning **GO, Gin**
-
-- 👯 I’m looking to collaborate on [Ministry of CODE](https://github.com/Ministry-of-CODES)
-
-- 📫 How to reach me **pama@pamalee.cn**
+- 📫 How to reach me **me@jiake.li**
 
 <h3 align="left">Connect with me:</h3>
 pama@pamalee.cn
